@@ -83,11 +83,3 @@ Thus, finally we can see how using a prebuilt technology in our mobile phones, i
 Bluetooth, we are able to control electrical appliances if our home. The technology can find
 numerous uses in the daily life.
 
-The delay functionality included in the app can be a bonus. One of its uses can be as a
-reminder, where let’s say if someone has decided that he or she wants to study after 30
-minutes, then he can enter the start delay as `1800 (30 minutes = 30x60 seconds)`. Thus the
-light, which can be the study lamp, will turn on after 30 minutes, thus reminding that it’s
-the time to study.
-
-Moreover, the limitation of range, that exists because of the Bluetooth technology, can be
-removed by using a Wi-Fi module.
